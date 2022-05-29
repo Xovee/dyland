@@ -14,7 +14,7 @@ for land deformation forecasting described in the following paper:
 > Under review, 2022
 
 <p align="center">
-<img src="lib/dyland.jpg" width="70%" alt="Dyland Framework" style="min-width: 400px;">
+<img src="lib/dyland.jpg" width="95%" alt="Dyland Framework">
 </p>
 
 ## Install dependencies
