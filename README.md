@@ -16,6 +16,7 @@ for land deformation forecasting described in the following paper:
 <p align="center">
 <img src="lib/dyland.jpg" width="70%" alt="Dyland Framework" style="min-width: 400px;">
 </p>
+
 ## Install dependencies
 
 In this repo, DyLand is implemented by `pytorch=1.11.0`, `python=3.10.4`, `cudatoolkit=11.3`.
